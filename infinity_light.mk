@@ -16,7 +16,7 @@ $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 # Inherit from light device
 $(call inherit-product, device/xiaomi/light/device.mk)
 
-PRODUCT_DEVICE := Redmi 10 5G
+PRODUCT_DEVICE := light
 PRODUCT_NAME := infinity_light
 PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := Redmi 10 5G
