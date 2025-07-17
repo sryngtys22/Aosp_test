@@ -18,4 +18,3 @@
 ## Device Picture
 
 ![POCO M4 5G](https://i02.appmifile.com/34_operator_sg/21/07/2022/40acc04f63f5ad7936f6ae01a1eca3e5.png?f=webp "POCO M4 5G")
-# Aosp_test
